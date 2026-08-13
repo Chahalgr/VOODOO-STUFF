@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "VoodooStuff",
   "resources": {
-    "hash": "sha256-aF4S8mXDaIiKPcS+RES58dANWewcWTjwXkZopHdTiQw=",
+    "hash": "sha256-OK+cZrw2eA1Q98XV9dHEt7sHWvKjXj9rE2cGy4Sxojs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-y8qFDKZOxBgv96htS0w1DsaYDa8XEO7kej1HB42NTUY=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-sg1fiblphy4AdcvkMIMf8kxigUOPPpKEkXLIA88whV8=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-QhhrM8QGvxj+Zf/a4NtJPIZrWiff5PCPhQTM1C/f/oE=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-TL4vh+RgRM3bVGfD/wn7frmAiQQB9AGYofAzKw25CQ4=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-dW14nEOBcwYs47V4WLNm3Ka4iUhM50MBLu9tRAHQoXk=",
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-7CIQNxjR+3+tHlHpmUZ5IExzdbPSxY5PNwkdI5f1LEo=",
       "System.Text.RegularExpressions.wasm": "sha256-YVSquKNmLT/T/5RKu/7rGnL0bW2rki1PzPv1Pd29VQI=",
       "System.Private.CoreLib.wasm": "sha256-+6EhoBjYr0s57zhgXtJc7Kz0YYoMW3G+fwHc4SE/Zho=",
-      "VoodooStuff.wasm": "sha256-87I+GfZT/2CDVRCrlI1L/8vslQDvwNqJrnfpOjcefY4="
+      "VoodooStuff.wasm": "sha256-CLBFtDpw74StA0vzIKrW6Fv5k387q1ojdzGF+OT+NUg="
     }
   },
   "cacheBootResources": true,
