@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "VoodooStuff",
   "resources": {
-    "hash": "sha256-OK+cZrw2eA1Q98XV9dHEt7sHWvKjXj9rE2cGy4Sxojs=",
+    "hash": "sha256-4lyg9U+Sx7Vs2JhzPs9hgwHtMdT0YrcEm/kFTUgnVV8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -37,19 +37,19 @@
       "System.ComponentModel.wasm": "sha256-lRbXroqpgiwkr4tkgvfvB62KcB02uGaIE18tqI0d/iY=",
       "System.Console.wasm": "sha256-NYSMx3g31l4jiJciMAQKvZ+ORO0MCzFnbJZqW5Zqb6g=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-ywJEurUPaOlkE+/Ct81BrVf/cFGqkDb7smYdrIF9kBo=",
-      "System.Linq.wasm": "sha256-KpoPf5k1Vb72jNttVCruNWTwVKbOo/AMw2w5ti3Y5GQ=",
+      "System.Linq.wasm": "sha256-IKfD+hLLDsvtn2qhC7EkUYAaDWfc4duxfGLM3XPqR8I=",
       "System.Memory.wasm": "sha256-5Sv7U2vkzwHsdBKOJ+aAA3jdkxyDrQKu1H8Ui0rGVEo=",
       "System.Net.Http.Json.wasm": "sha256-K5FkmSWoHQo+zmZLTmVZX9DL2Zkx0pdfRqV5/0Bo6sM=",
       "System.Net.Http.wasm": "sha256-qJNDZokGcC1LjQFk9XY4fFJ29VC9oOCrSOHvWjPcx/A=",
       "System.Net.Primitives.wasm": "sha256-gkZfFGrjgg6qS9h0vSysbuP2SKdFdqVW52K8l5w5yGY=",
       "System.Private.Uri.wasm": "sha256-eB3eJDBOfi6EZwLtR7eizUVXdNJL2vK5u6RwHFazl/I=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-YdYasJwRN+2MwcCdionXc6dnOjGpcCwBC9zjnoHQpCo=",
-      "System.Runtime.wasm": "sha256-kEXNNDWLicU9AxW/FAQ4kKj83OZPLiNtiRojLSl6Qes=",
+      "System.Runtime.wasm": "sha256-dty4wwBeXWqP7AnyO2bnyUoBDF9pLjLI2LZonw/uDvk=",
       "System.Text.Encodings.Web.wasm": "sha256-TxId0lcB72W7M6URyCSyALsnP6TpMOt7+sQfz5jfiwQ=",
       "System.Text.Json.wasm": "sha256-7CIQNxjR+3+tHlHpmUZ5IExzdbPSxY5PNwkdI5f1LEo=",
       "System.Text.RegularExpressions.wasm": "sha256-YVSquKNmLT/T/5RKu/7rGnL0bW2rki1PzPv1Pd29VQI=",
-      "System.Private.CoreLib.wasm": "sha256-+6EhoBjYr0s57zhgXtJc7Kz0YYoMW3G+fwHc4SE/Zho=",
-      "VoodooStuff.wasm": "sha256-CLBFtDpw74StA0vzIKrW6Fv5k387q1ojdzGF+OT+NUg="
+      "System.Private.CoreLib.wasm": "sha256-tgJccvmviSsXNqwvcdGAfgiH8zKD6WKicK8hvKA8Q0I=",
+      "VoodooStuff.wasm": "sha256-NzhW34kFyDD/P5JHZ5Bu88rSyVwx/qw9oA1+zCyfDLg="
     }
   },
   "cacheBootResources": true,
